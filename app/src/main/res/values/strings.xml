@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toast</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hello_world">Hello World</string>
+    <string name="Toast">Toast</string>
+</resources>
